@@ -27,8 +27,4 @@ getnama(String nama){
     };
 
 }
- void info(Mahasiswa){
-   print(nama);
-   print(nrp);
- }
 }
